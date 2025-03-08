@@ -1,6 +1,7 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Arlethmdza22/MSF-Practica-1)
 # MSF-Practica-1
 Practica 1: Diseño de controladores 
-# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Valle05211261]
+# Modelado de Sistemas Fisiológicos. Práctica 1: Diseño de controladores [Mendoza20211984]
 
 ## Autor
 Mendoza Perez Arleth Alejandra 
